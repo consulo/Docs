@@ -1,4 +1,7 @@
-# Repository list by category
+# Repositiries by category
+
+## Uncategoried
+* [consulo.github.io](https://github.com/consulo/consulo.github.io) - contains **consulo.io** sources
 
 ## Core
  * [consulo](http://github.com/consulo/consulo) - main repository of **Consulo** organization on **github**. It contains **Consulo** platform code without **any language implementations**. 
