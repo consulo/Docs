@@ -5,7 +5,7 @@ If you want download **Consulo** please use this [link](https://github.com/consu
 Current wiki you can found here [wiki](https://github.com/consulo/consulo/wiki)
 
 
-# Work in Progress
+> Work in Progress. Below text not finished
 
 
 
