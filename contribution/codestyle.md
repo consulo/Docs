@@ -9,7 +9,15 @@
     private int myIntValue;
   }
   ```
-  
+ * class instance field 
+   * **static** + **final**
+   * `INSTANCE` name
+  ```java
+  public class Service
+  {
+    public static final Service INSTANCE = new Service();
+  }
+  ```
  * logging field
    * **static** + **final**
    * `LOG` name
