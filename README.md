@@ -18,4 +18,4 @@ Current wiki you can found here [wiki](https://github.com/consulo/consulo/wiki)
 
 
 ## Repositories
-Consulo organization on GitHub contains more that 100 repositories. For each repository description you can found [here](https://github.com/consulo/Welcome/blob/master/repositories/list.md)
+Consulo organization on GitHub contains more that 100 repositories. For each repository description you can found [here](https://github.com/consulo/Welcome/blob/master/repositories/README.md)
