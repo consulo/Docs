@@ -10,11 +10,12 @@ Current wiki you can found here [wiki](https://github.com/consulo/consulo/wiki)
 
 
 ## Primary links
-* [consulo.io](https://consulo.io) 
-* [discuss.consulo.io](https://discuss.consulo.io)
-* [hub.consulo.io](https://hub.consulo.io)
-* [ci.consulo.io](https://ci.consulo.io) 
-* [maven.consulo.io](https://maven.consulo.io) 
+* [consulo.io](https://consulo.io) - home page
+* [discuss.consulo.io](https://discuss.consulo.io) - forum 
+* [hub.consulo.io](https://hub.consulo.io) - hub where you can find info about plugins, your error reports, statistics, e tc
+* [ci.consulo.io](https://ci.consulo.io) - jenkins
+* [maven.consulo.io](https://maven.consulo.io) - maven repository
+* [upm.consulo.io](https://upm.consulo.io) - NPM registry for Unity
 
 
 ## Repositories
