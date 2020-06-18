@@ -1,4 +1,4 @@
 # Contribution Guide
 
- * [Code Style](contribution/codestyle.md)
- * [Code Restriction](contribution/restriction.md)
+ * [Code Style](codestyle.md)
+ * [Code Restriction](restriction.md)
