@@ -8,7 +8,7 @@ While coding platform, there some rules, about code/library usage
  * No usage of **java.lang.System** class, use "consulo.platform.Platform#current()" - system class, can return different values for each platform
  
 ## 'consulo.platform.desktop'
- * AWT & Swing allowed
+ * AWT & Swing allowed - but preferer use **consulo.ui**, since AWT<>Consulo UI, conversion not allowed
  
 ## 'consulo.platform.web'
  * AWT & Swing not allowed
