@@ -2,4 +2,6 @@
 
 Consulo have some forks of Sound libraries for extending **javax.sound** implementation via SPI
 
-* https://github.com/consulo/javazoom.jlayer
+* [JavaZoom JLayer](https://github.com/consulo/javazoom.jlayer)
+
+* [jvorbis](https://github.com/consulo/jvorbis)
