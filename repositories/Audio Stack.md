@@ -5,3 +5,5 @@ Consulo have some forks of Sound libraries for extending **javax.sound** impleme
 * [JavaZoom JLayer](https://github.com/consulo/javazoom.jlayer)
 
 * [jvorbis](https://github.com/consulo/jvorbis)
+
+* [jogg](https://github.com/consulo/jogg)
