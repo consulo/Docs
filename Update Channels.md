@@ -1,1 +1,1 @@
-Move to http://localhost:8000/platform/update_channels/
+Move to https://consulo.dev/platform/update_channels/
